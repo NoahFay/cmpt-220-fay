@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// JA: Your Java file needs to be named the same as the class
 
 public class Exercise_03_05{
     public static void main(String[] args){

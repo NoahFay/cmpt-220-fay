@@ -1,6 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
+// JA: This code is incomplete
 public class RPS {
     public static void main(String args[]){
 

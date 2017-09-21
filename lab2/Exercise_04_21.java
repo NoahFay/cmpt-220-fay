@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// JA: There is a problem in the logic
 public class Exercise_04_21{
     public static void main(String[] args)
     {
@@ -31,3 +32,4 @@ public class Exercise_04_21{
         
         System.out.printf("%s is a valid social security", ssn);
     }
+}  // JA: You were missing this }
