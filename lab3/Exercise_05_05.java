@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 5.5{
+public class Exercise_05_05{
     public static void main(String[] args){
         System.out.printf("%-10s %8s    |     %-8s %10s%n",
             "Kilograms",
