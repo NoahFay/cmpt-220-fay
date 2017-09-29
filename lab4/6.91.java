@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-public class 6.9 {
+public class 6.91 {
 	/** Main Method */
 	public static void main(String[] args) {
 		// Display table
