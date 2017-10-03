@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 6.17 {
+public class E617 {
  
 public static void main(String[] args)
     {

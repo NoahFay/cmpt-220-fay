@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class 6.19 {
+
+// JA: You cannot have a main inside a main
+public class E619 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 

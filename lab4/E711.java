@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class 7.11 
+public class E711 
 {
  //intergers
     int[] a;
@@ -45,7 +45,7 @@ public class 7.11
     }
  //mean/dev
     public static void main(String[] args) {
-        Stat stat = new Stat();
+        Stat stat = new Stat(); // JA: Where is this class defined?
         stat.stat();
         System.out.println("Mean = " + stat.m);
         System.out.println("Standard Deviation = " + stat.sd);

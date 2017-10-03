@@ -1,6 +1,6 @@
-import java.util.Scanner
+import java.util.Scanner; // JA: Missing ;
 
-public class 6.91 {
+public class E69 {
 	/** Main Method */
 	public static void main(String[] args) {
 		// Display table

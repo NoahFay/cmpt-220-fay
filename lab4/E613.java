@@ -1,6 +1,6 @@
-import Java.Util.Scanner 
+import java.util.Scanner; // JA: Missing ;. Also, java.util instead of Java.Util
 
-public class 6.13 {
+public class E613 {
 	public static void main(String[] args) {
 		// Display table series data between 1.0 t0 20.0
 		double seriesStart  =  1.0;	

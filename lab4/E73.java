@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 7.3 
+public class E73 
 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
