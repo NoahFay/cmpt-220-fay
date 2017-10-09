@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class 7.9 {
+// JA: Don't start your classes with a number
+public class E7_9 {
 	/** Main method */
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); // Create a Scanner

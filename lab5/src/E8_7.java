@@ -1,4 +1,4 @@
-public class 8.7 {
+public class E8_7 {
 	/** Main method */
 	public static void main(String[] args) {
 

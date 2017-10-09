@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 7.19 {
+public class E7_19 {
 	/** Main method */
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

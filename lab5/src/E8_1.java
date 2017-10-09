@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 8.1 {
+public class E8_1 {
 	/** Main method */
 	public static void main(String[] args) {
 

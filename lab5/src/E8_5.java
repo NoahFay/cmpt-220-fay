@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 8.5 {
+public class E8_5 {
 	/** Main method */
 	public static void main(String[] args) {
 		// Initialize two 3 x 3 matrices

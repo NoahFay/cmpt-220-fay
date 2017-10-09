@@ -1,6 +1,6 @@
-import java.util.Scanner
+import java.util.Scanner;
 
-public class 8.11 {
+public class E8_11 {
 
     public static void main(String[] args) {
 
