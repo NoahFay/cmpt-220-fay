@@ -1,0 +1,51 @@
+10.3
+ int                         
+ MyInteger            
+ getValue                    
+Even()                 
+odd()                    
+Prime()                 
+ even(int)      
+ Odd(int)         
+ Prime(int)     
+ (chars: char[])            
+ +parseInt(str: String)
+ 
+ 10.5 
+ INPUT.NEXT INT()
+ outprint.factors //largeest factors
+ while loop 
+ output smallest factor 
+ 
+ 10.7
+int                                              
+ balance                                  
+ annualInterestRate                                                  
+ String                                  
+ +Account()                                            
+ +Account(newid: int, newBalance: double)              
+ +setId(newId: int)                                    
+ +setBalance(newBalance: double)                       
+ +setAnnualInterestRate(newAnnualInterestRate: double) 
+ +getId(): int                                         
+ +getBalance(): double                                 
+ +getAnnualInterestRate(): double                      
+ +getDateCreated(): String                             
+ +getMonthlyInterestRate(): double                     
+ +getMonthlyInterest(): double                         
+ +withdraw(amount: double)                             
+ +deposit(amount: double)
+ 10.9 
+ get class
+ var new course 
+ make string 
+delete vars 
+stats 
+String 
+
+ 
+ 
+ 
+ 
+ 
+ 
