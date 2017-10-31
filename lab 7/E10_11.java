@@ -60,4 +60,5 @@ public class E10_11 {
 				 Math.pow(circle.getY() - y, 2)) 
 				 <= radius + circle.getRadius();
 	}
+
 }
