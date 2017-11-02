@@ -1,0 +1,49 @@
+ 9.1
+ width: double                                   
+ height: double                                  
+ Rectangle()                                     
+ Rectangle(newWidth: double, newHeight: double)  
+ getArea(): double                               
+ getPerimeter(): double  
+ 9.3
+ get calendar 
+ calendar to strings 
+ set date and times
+ outprint dates
+ 9.5 
+ GregorianCalendar()
+ outprint current date
+ calender.setTimeInMillis
+ outprint time eclispe 
+ 9.7
+ balence double 
+ get intrest rate 
+ create string
+ new account 
+ set id 
+ new balence 
+ new annule intrest rate 
+ get all new outputs 
+ 9.11
+  -a: double                                         
+  -b: double                                         
+  -c: double                                         
+  -d: double                                         
+  -e: double                                         
+  -f: double                                         
+  +LinearEquation(a: double, b: double, c: double,    
+  d: double, e: double, f: double)   
+  +getA(): double                                    
+  +getB(): double                                    
+  +getC(): double                                    
+  +getD(): double                                    
+  +getE(): double                                    
+  +getF(): double                                    
+  +isSolvable(): boolean                             
+  getX(): double                                     
+  getY(): double  
+9.13
+ +row: int                    
+ +column: int                 
+ +maxValue: double            
+ +Location(array: double[][])
