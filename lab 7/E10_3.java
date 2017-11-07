@@ -1,3 +1,4 @@
+// JA: Where is MyInteger defined?
 public class E10_3 {
 	
 	public static void main(String[] args) {

@@ -1,3 +1,4 @@
+// JA: No main?
 public class E10_9 {
 	private String courseName;
 	private String[] students = new String[1];

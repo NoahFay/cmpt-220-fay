@@ -1,3 +1,4 @@
+// JA: Where is StackOfIntegers defined?
 import java.util.Scanner;
 
 public class E10_5 {
