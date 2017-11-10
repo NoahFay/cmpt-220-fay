@@ -1,0 +1,54 @@
+12.3
+int[] array
+Try int Array
+public static int[] getArray() 
+int[] array = new int[100];
+for (int i = 0; i < array.length; i++) 
+array[i] = (int)(Math.random() * 100) + 1;
+return array;
+12.5
+Object                   
+color: String                    
+-filled: boolean                 
+-dateCreated: java.util.Date      
++GeometricObject()                
++GeometricObject(color: String,   
+filled: boolean)                 
++getColor(): String               
++setColor(color: Stirng): void    
++isFilled(): boolean              
++setFilled(filled: boolean): void 
++getDateCreated(): java.util.Date 
++toString(): String               
+Trinagle 
+-side1: double                                         
+-side2: double                                         
+ -side3: double                                         
+ +Triangle()                                            
+ +Triangle(side1: double, side2: double, side3: double) 
+ +getSide1(): double                                    
+ +getSide2(): double                                    
+ +getSide3(): double                                    
+ +getArea(): double                                     
+ +getPerimeter(): double                                
+ +toString(): String 
+ TriException
+ side1: double                                         
+-side2: double                                         
+ -side3: double                                         
+ +Triangle()                                            
+ +Triangle(side1: double, side2: double, side3: double) 
+ +getSide1(): double                                    
+ +getSide2(): double                                    
+ +getSide3(): double                                    
+ +getArea(): double                                     
+ +getPerimeter(): double                                
+ +toString(): String
+12.11
+getfile 
+file leangth 
+if or 
+12.13
+Int 
+try 
+while 
