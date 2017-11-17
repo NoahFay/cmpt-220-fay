@@ -1,0 +1,53 @@
+13.3
+array []
+list 
+sortlist()
+public static void sort(ArrayList<Number> list) {
+for (int i = 0; i < list.size() - 1; i++) {
+//mimimum
+Number min = list.get
+min list to max
+ouprint list
+outprint order list
+OBJECT 13.9 13.11 13.7'
+private String color = "while";
+private boolean filled;
+private java.util.Date dateCreated;
+get date
+math permiter
+math area
+String color
+sting fill
+oveeride 
+color
+date 
+area 
+perminter 
+13.7 color
+permenter
+area 
+color string 
+Square 13.7
+get sides of 5 squares 
+over ride math
+13.7
+outprint all 5
+permentior 
+area color all 4 sides 
+13.9
+outprint circles 
+over ride radiuses
+13.9 circle
+make circle
+13.11 octagon
+make ocaton
+clone octagon/ make new one
+is it the same
+13.11
+outorint area 
+outprint permintor 
+outprint area
+outprint clone
+outprint if the smae
+
+
