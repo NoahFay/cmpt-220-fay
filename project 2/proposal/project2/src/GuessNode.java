@@ -7,34 +7,23 @@ public class GuessNode implements DecisionNode {
 	private String guess;
 	private static boolean exit = false;
 	
-	/**
-	 * @param guess
-	 * constructor for GuessNode
-	 */
+	
 	public GuessNode (String guess) {
 		this.guess = guess;
 	}
 	
-	/**
-	 * @return this method exits the program
-	 */
+	
 	public static boolean exit(){
 		return exit;
 	}
 
-	/**
-	 * the count for a guess node is 1
-	 */
+	// to stay in or guess 
 	@Override
 	public int countObjects() {
 		return 1;
 	}
 
-	/**
-	 * this method guesses what the user is thinking of, finds out if the guess was correct,
-	 *  and learns from the interaction to be used in a later interaction, and clarifies what the
-	 *  user was thinking of
-	 */
+	
 	@Override
 	public DecisionNode guess(Scanner in) {
 		System.out.println("Are you thinking of a " + this.guess + "?");
@@ -79,9 +68,7 @@ public class GuessNode implements DecisionNode {
 		}
 	}
 
-	/**
-	 * this writes to the file
-	 */
+	
 	@Override
 	public void write(FileWriter out) throws IOException {
 		out.write(this.guess+"\n");		
