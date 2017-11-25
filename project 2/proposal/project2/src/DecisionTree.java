@@ -8,17 +8,14 @@ public class DecisionTree {
 	
 	DecisionNode root;
 	
-	/**
-	 * constructor for DecisionTree has base guess of dog
-	 */
+	
+	 // constructor for DecisionTree has base guess of dog
+	 
 	public DecisionTree() {
 		this.root = new GuessNode ("dog");
 	}
 	
-	/**
-	 * @param file
-	 * @throws FileNotFoundException
-	 */
+	
 	public DecisionTree(File file) throws FileNotFoundException {
 		Scanner s = new Scanner (file);
 		if (s.hasNextLine()) {
@@ -26,11 +23,9 @@ public class DecisionTree {
 		}
 	}
 	
-	/**
-	 * @param s scanner 
-	 * @returns a new node, either a GuessNode or a QuestionNode
-	 * this method creates a DecisionTree from a logged line-by-line file
-	 */
+
+	 // this method creates a DecisionTree from a logged line-by-line file
+	
 	public static DecisionNode DecisionTreeH (Scanner s) {
 		String str = s.nextLine();
 		if (str.charAt(0) != '#') {

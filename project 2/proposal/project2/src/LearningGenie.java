@@ -3,10 +3,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class LearningGenie {
-	/**
-	 * @param args
-	 * @throws IOException
-	 */
+	
 	public static void main(String[] args) throws IOException {
 		//File file = new File ("testfile.txt");
 		DecisionTree t = new DecisionTree();
