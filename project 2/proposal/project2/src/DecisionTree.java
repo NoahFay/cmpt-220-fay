@@ -34,16 +34,12 @@ public class DecisionTree {
 		return new QuestionNode (DecisionTreeH (s), DecisionTreeH (s), str.substring(1));
 	}
 
-	/**
-	 * @return calls countObjects on the root
-	 */
+	
 	public int countObjects() {
 		return root.countObjects();
 	}
 
-	/**
-	 * @param in
-	 */
+	
 	public void guess(Scanner in) {
 		root = root.guess(in);
 	}
