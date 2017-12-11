@@ -1,0 +1,26 @@
+NODE
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
+Boolean true or false
+if leaf if not null guess
+if else yes look for another leaf null guess no guess
+file writter to save ansewer txt doc
+
+leaningenie
+mainmethod 
+outputs Question 
+ask questions 
+
+Question node 
+use deson tree 
+bollean questions 
+yes no
+left look for leaf 
+right look for leave 
+form more leaves when not right answer
+
+decision tree
+Tree using the nodes to know where to go 
+
+
